@@ -1,0 +1,163 @@
+{
+  "last_updated": "2026-07-21T12:23:25Z",
+  "source": "15263 Offers",
+  "sheet_id": "1jK66XcKOLgQWAhToEhPSpHewOWn1EKIzlVw0hn_a8sY",
+  "gid": "0",
+  "columns": {
+    "B": "offer_name",
+    "C": "code",
+    "D": "affiliate_id",
+    "E": "discount",
+    "F": "geo"
+  },
+  "total": 21,
+  "offers": [
+    {
+      "offer_name": "Al Dakheel Oud",
+      "code": "DON",
+      "affiliate_id": "15263",
+      "discount": "5%\nNot applicable on tax and delivery",
+      "geo": "KSA primary / GCC secondary"
+    },
+    {
+      "offer_name": "Asos- CPS Links",
+      "code": "https://asos.bbgqo9.net/c/3868684/1227814/10982?subId1=15263",
+      "affiliate_id": "15263",
+      "discount": "15263",
+      "geo": "Link"
+    },
+    {
+      "offer_name": "Bloomingdales",
+      "code": "TT99",
+      "affiliate_id": "15263",
+      "discount": "KWT - Full Price Fashion – 15%\n         UAE - Full Price Fashion – 10%\n         UAE/KWT - Fashion Sale – 10%\n         UAE/KWT - Beauty Full Price – 10%",
+      "geo": "UAE - KWT"
+    },
+    {
+      "offer_name": "Dar Alamirat",
+      "code": "SD12",
+      "affiliate_id": "15263",
+      "discount": "3% with a maximum discount of 250 SAR",
+      "geo": "ksa"
+    },
+    {
+      "offer_name": "Eyewa",
+      "code": "dg99",
+      "affiliate_id": "15263",
+      "discount": "0.1",
+      "geo": "GCC"
+    },
+    {
+      "offer_name": "GRASSE PERFUME",
+      "code": "RR35",
+      "affiliate_id": "15263",
+      "discount": "5 SAR",
+      "geo": "KSA"
+    },
+    {
+      "offer_name": "H&M",
+      "code": "VJS4",
+      "affiliate_id": "15263",
+      "discount": "10% Full Price Only",
+      "geo": "KSA - KWT - UAE"
+    },
+    {
+      "offer_name": "H&M",
+      "code": "VY4G",
+      "affiliate_id": "15263",
+      "discount": "5% off discounted and non-discounted items",
+      "geo": "KSA - KWT - UAE"
+    },
+    {
+      "offer_name": "Jeeny Ksa",
+      "code": "ka31",
+      "affiliate_id": "15263",
+      "discount": "First ride only  40%\nMax 8 SAR",
+      "geo": "KSA"
+    },
+    {
+      "offer_name": "Jeeny Jo",
+      "code": "u43",
+      "affiliate_id": "15263",
+      "discount": "First ride only  30%\nMax 0.75JD",
+      "geo": "Jor"
+    },
+    {
+      "offer_name": "Levelshoes",
+      "code": "DZB112",
+      "affiliate_id": "15263",
+      "discount": "10% rate only applicable on top of items with a star",
+      "geo": "GCC"
+    },
+    {
+      "offer_name": "Mamas&Papas",
+      "code": "HH51",
+      "affiliate_id": "15263",
+      "discount": "UAE/KWT/KSA - Full Price – 15%\n         UAE/KWT/KSA - Sale Items – 10%",
+      "geo": "KSA - KWT"
+    },
+    {
+      "offer_name": "Mothercare",
+      "code": "VA2QD",
+      "affiliate_id": "15263",
+      "discount": "0.05",
+      "geo": "KSA - KWT - UAE"
+    },
+    {
+      "offer_name": "Namshi",
+      "code": "KSY",
+      "affiliate_id": "15263",
+      "discount": "5% cashback for new & repeat customers\n        Cashback cap: Up to AED/SAR 10\n        No minimum spend required",
+      "geo": "KSA/UAE"
+    },
+    {
+      "offer_name": "Noon GCC",
+      "code": "VBL",
+      "affiliate_id": "15263",
+      "discount": "New Users: 10% OFF (Up to 50 AED/SAR)\n Existing Users: 5% OFF (Up to 10 AED/SAR)\n\nFor Toys:\nNew Users: 10% OFF (Capped at 100 SAR/AED).\nReturning Users: 5% OFF (Capped at 50 SAR/AED).",
+      "geo": "Ksa/ Uae"
+    },
+    {
+      "offer_name": "Noon Egypt",
+      "code": "JPR",
+      "affiliate_id": "15263",
+      "discount": "*New User:10%, Cap 50EGP *Return User: 5%, Cap  25 EGP",
+      "geo": "Egy"
+    },
+    {
+      "offer_name": "Reef Perfumes",
+      "code": "DGZ4",
+      "affiliate_id": "15263",
+      "discount": "10% with a cap Up to 15SAR",
+      "geo": "Gcc"
+    },
+    {
+      "offer_name": "Styli",
+      "code": "G42",
+      "affiliate_id": "15263",
+      "discount": "New user: 30% for Non-discounted items & 15% for discounted items. Old user: 15% for Non-discounted items & 10% for discounted items. With a discount cap 50 SAR/AED",
+      "geo": "Gcc"
+    },
+    {
+      "offer_name": "The Body Shop West KSA & UAE",
+      "code": "AB111",
+      "affiliate_id": "15263",
+      "discount": "0.1",
+      "geo": "West KSA & UAE"
+    },
+    {
+      "offer_name": "Whites",
+      "code": "tt79",
+      "affiliate_id": "15263",
+      "discount": "5% Not including medicine + Mama & Baby. No Min Spend",
+      "geo": "KSA"
+    },
+    {
+      "offer_name": "VogaCloset",
+      "code": "PMXI",
+      "affiliate_id": "15263",
+      "discount": "20% above AED/SAR 100  30% above AED/SAR 700 & SAR/AED 800 Egypt: 2% - 4%",
+      "geo": "MENA"
+    }
+  ]
+}
