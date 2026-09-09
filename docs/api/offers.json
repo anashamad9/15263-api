@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T22:01:25Z",
+  "last_updated": "2026-09-09T00:11:56Z",
   "source": "15263 Offers",
   "sheet_id": "1jK66XcKOLgQWAhToEhPSpHewOWn1EKIzlVw0hn_a8sY",
   "gid": "0",
@@ -10,7 +10,7 @@
     "E": "discount",
     "F": "geo"
   },
-  "total": 21,
+  "total": 23,
   "offers": [
     {
       "offer_name": "Al Dakheel Oud",
@@ -32,6 +32,13 @@
       "affiliate_id": "15263",
       "discount": "KWT - Full Price Fashion – 15%\n         UAE - Full Price Fashion – 10%\n         UAE/KWT - Fashion Sale – 10%\n         UAE/KWT - Beauty Full Price – 10%",
       "geo": "UAE - KWT"
+    },
+    {
+      "offer_name": "Bath & Body Works",
+      "code": "V6XY",
+      "affiliate_id": "15263",
+      "discount": "0.05",
+      "geo": "KSA - KWT"
     },
     {
       "offer_name": "Dar Alamirat",
@@ -102,6 +109,13 @@
       "affiliate_id": "15263",
       "discount": "0.05",
       "geo": "KSA - KWT - UAE"
+    },
+    {
+      "offer_name": "Mumzworld",
+      "code": "ZZ79",
+      "affiliate_id": "15263",
+      "discount": "10% with 40 SAR/AED CAP",
+      "geo": "Gcc"
     },
     {
       "offer_name": "Namshi",
