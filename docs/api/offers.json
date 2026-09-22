@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T22:41:40Z",
+  "last_updated": "2026-09-22T01:10:41Z",
   "source": "15263 Offers",
   "sheet_id": "1jK66XcKOLgQWAhToEhPSpHewOWn1EKIzlVw0hn_a8sY",
   "gid": "0",
@@ -10,7 +10,7 @@
     "E": "discount",
     "F": "geo"
   },
-  "total": 23,
+  "total": 24,
   "offers": [
     {
       "offer_name": "Al Dakheel Oud",
@@ -130,6 +130,13 @@
       "affiliate_id": "15263",
       "discount": "New Users: 10% OFF (Up to 50 AED/SAR)\n Existing Users: 5% OFF (Up to 10 AED/SAR)\n\nFor Toys:\nNew Users: 10% OFF (Capped at 100 SAR/AED).\nReturning Users: 5% OFF (Capped at 50 SAR/AED).",
       "geo": "Ksa/ Uae"
+    },
+    {
+      "offer_name": "NiceOne",
+      "code": "DZ24",
+      "affiliate_id": "15263",
+      "discount": "10%\nReturning Customer:  CAP 13 SAR OFF.\nNew Customer: CAP 20 SAR OFF",
+      "geo": "KSA"
     },
     {
       "offer_name": "Noon Egypt",
