@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T21:38:31Z",
+  "last_updated": "2026-10-15T23:51:46Z",
   "source": "15263 Offers",
   "sheet_id": "1jK66XcKOLgQWAhToEhPSpHewOWn1EKIzlVw0hn_a8sY",
   "gid": "0",
@@ -125,6 +125,13 @@
       "geo": "KSA/UAE"
     },
     {
+      "offer_name": "Noon Egypt",
+      "code": "JPR",
+      "affiliate_id": "15263",
+      "discount": "*New User:10%, Cap 50EGP *Return User: 5%, Cap  25 EGP",
+      "geo": "Egy"
+    },
+    {
       "offer_name": "Noon GCC",
       "code": "VBL",
       "affiliate_id": "15263",
@@ -137,13 +144,6 @@
       "affiliate_id": "15263",
       "discount": "New User: 10% CAP 20 SAR\n Return User: 10% CAP 13 SAR",
       "geo": "KSA"
-    },
-    {
-      "offer_name": "Noon Egypt",
-      "code": "JPR",
-      "affiliate_id": "15263",
-      "discount": "*New User:10%, Cap 50EGP *Return User: 5%, Cap  25 EGP",
-      "geo": "Egy"
     },
     {
       "offer_name": "Reef Perfumes",
