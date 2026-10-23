@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T22:17:45Z",
+  "last_updated": "2026-10-23T00:46:37Z",
   "source": "15263 Offers",
   "sheet_id": "1jK66XcKOLgQWAhToEhPSpHewOWn1EKIzlVw0hn_a8sY",
   "gid": "0",
@@ -10,8 +10,36 @@
     "E": "discount",
     "F": "geo"
   },
-  "total": 24,
+  "total": 31,
   "offers": [
+    {
+      "offer_name": "Numero",
+      "code": "SAAS",
+      "affiliate_id": "15263",
+      "discount": "0.15",
+      "geo": "GCC"
+    },
+    {
+      "offer_name": "Voucherek",
+      "code": "V23",
+      "affiliate_id": "15263",
+      "discount": "20% Discount with Max cap of 50 SAR per order",
+      "geo": "ksa"
+    },
+    {
+      "offer_name": "Option B",
+      "code": "D57",
+      "affiliate_id": "15263",
+      "discount": "10% discount (Capped 10 SAR + Must be registered user)",
+      "geo": "KSA"
+    },
+    {
+      "offer_name": "Al Oyairi Furniture",
+      "code": "V80",
+      "affiliate_id": "15263",
+      "discount": "10% and free delivery",
+      "geo": "KSA"
+    },
     {
       "offer_name": "Al Dakheel Oud",
       "code": "DON",
@@ -46,6 +74,13 @@
       "affiliate_id": "15263",
       "discount": "3% with a maximum discount of 250 SAR",
       "geo": "ksa"
+    },
+    {
+      "offer_name": "Deraah",
+      "code": "DZ23",
+      "affiliate_id": "15263",
+      "discount": "0.1",
+      "geo": "GCC - KSA Focus"
     },
     {
       "offer_name": "Eyewa",
@@ -160,11 +195,25 @@
       "geo": "Gcc"
     },
     {
+      "offer_name": "Selene",
+      "code": "DG42",
+      "affiliate_id": "15263",
+      "discount": "0.1",
+      "geo": "KSA"
+    },
+    {
       "offer_name": "The Body Shop West KSA & UAE",
       "code": "AB111",
       "affiliate_id": "15263",
       "discount": "0.1",
       "geo": "West KSA & UAE"
+    },
+    {
+      "offer_name": "United Pharmacy",
+      "code": "N41",
+      "affiliate_id": "15263",
+      "discount": "- 10% Discount codes can be\nused per user for only one time\nthen 5% continuously every other usage.\n\n\nNote: The code will not work if the\n basket just include milk or diapers",
+      "geo": "KSA"
     },
     {
       "offer_name": "Whites",
